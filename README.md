@@ -5,5 +5,7 @@ Animals by Alphabet
 - Alligator
 
 ## B
+- Bear
 
 ## C
+- Cat
